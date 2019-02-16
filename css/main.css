@@ -1,0 +1,7 @@
+.masthead span{
+    -webkit-transition: width 2s, height 4s; /* Safari */
+    transition: width 2s, height 4s;
+    transition-timing-function: ease-in-out;
+    -webkit-transition-delay: 1s; /* Safari */
+  transition-delay: 1s;
+}
